@@ -1,4 +1,4 @@
 # Shadbritto Website
-(shadbritto.com)
-# shadbritto.github.io
+<shadbritto.com>
+<shadbritto.github.io>
 
